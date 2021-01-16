@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: m@marcsist.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: marcsoriginal
 github_username: marcsist
 theme: minima
