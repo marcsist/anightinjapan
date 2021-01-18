@@ -4,8 +4,8 @@ date: 2021-01-16 00:00:00 Z
 excerpt: This is how I'd test all this stuff out if I needed to. Here we go.
 ---
 
-# This is the heading of the page
-It's about to get interesting
+### This is the heading of the page
+It's about to get interesting. This was the same thing I was doing earlier.
 
-## Markdown turns into html
-Using 2 hashtags is like using an h2 tag in html.
+### Markdown turns into html
+Using 2 hashtags is like using an h2 tag in html. We looked at apartments today.
